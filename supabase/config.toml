@@ -1,0 +1,8 @@
+project_id = "pwa-no-actions-02231646"
+
+[db]
+major_version = 17
+
+[db.migrations]
+enabled = true
+schema_paths = []
